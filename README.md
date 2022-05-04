@@ -1,1 +1,2 @@
-# DOA_EST
+# BSS_TEST
+Personal test algorithms for BSS using Matlab.

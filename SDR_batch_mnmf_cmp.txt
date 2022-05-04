@@ -1,0 +1,35 @@
+
+subguass≤‚ ‘offline
+SDR = -41.4542   SIR = 0   
+subguass≤‚ ‘offline
+SDR = -41.4542   SIR = 0   
+subguass≤‚ ‘offline
+SDR = -1.27188   SIR = 0   
+subguass≤‚ ‘offline
+SDR = 0.0661408   -0.0297678   SIR = 0.0920997   -0.0283423   
+subguass≤‚ ‘offline
+SDR = 0.0661408   -0.0297678   SIR = 0.0920997   -0.0283423   
+subguass≤‚ ‘offline
+SDR = 0.0661408   -0.0297678   SIR = 0.0920997   -0.0283423   
+subguass≤‚ ‘offline
+SDR = 0.165114   2.79565   SIR = 0.176727   4.17869   
+subguass≤‚ ‘offline
+SDR = 0.16511   2.7954   SIR = 0.176724   4.17836   
+subguass≤‚ ‘offline
+SDR = 0.165115   2.7957   SIR = 0.176728   4.17874   
+subguass≤‚ ‘offline
+SDR = 0.165125   2.79601   SIR = 0.176738   4.17916   
+subguass≤‚ ‘offline
+SDR = 0.165125   2.79601   SIR = 0.176738   4.17916   
+subguass≤‚ ‘offline
+SDR = 0.165125   2.79601   SIR = 0.176738   4.17916   
+subguass≤‚ ‘offline
+SDR = 0.165125   2.79601   SIR = 0.176738   4.17916   
+subguass≤‚ ‘offline
+SDR = 10.8075   10.7596   SIR = 18.4002   18.0352   
+subguass≤‚ ‘offline
+SDR = 10.8075   10.7596   SIR = 18.4002   18.0352   
+subguass≤‚ ‘offline
+SDR = 10.8075   10.7596   SIR = 18.4002   18.0352   
+subguass≤‚ ‘offline
+SDR =    SIR =    
